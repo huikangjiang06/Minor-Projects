@@ -1,0 +1,22 @@
+{
+  "total_samples": 5574,
+  "train_samples": 3901,
+  "validation_samples": 1120,
+  "test_samples": 553,
+  "label_distribution_total": {
+    "ham": 4827,
+    "spam": 747
+  },
+  "label_distribution_train": {
+    "ham": 3378,
+    "spam": 523
+  },
+  "label_distribution_val": {
+    "ham": 970,
+    "spam": 150
+  },
+  "label_distribution_test": {
+    "ham": 479,
+    "spam": 74
+  }
+}
